@@ -1,8 +1,6 @@
-# Template analysis module
+# Workshop analysis module
 
-This is a template analysis module.
-It is intended to be used as a starting point for new analysis modules.
-Please fill in the content below with information specific to this analysis module.
+This is an example module. 
 
 ## Description
 
@@ -16,7 +14,7 @@ If there are multiple steps in the module, please include an outline of the anal
 ## Usage
 
 Please provide instructions on how to run the analysis module.
-What commands are needed to execute all steps in the analysis?
+What commands are needed to execute all steps in the analysis? 
 
 ## Input files
 
